@@ -1,0 +1,1415 @@
+{
+  "status": "completed",
+  "ranks": 8,
+  "cases": [
+    {
+      "rows": 1,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 0,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 1,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 1,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 1,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 2,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 1,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 3,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 1,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 4,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 1,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 5,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 1,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 6,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 1,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 7,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 1,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 0,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 1,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 1,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 1,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 2,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 1,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 3,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 1,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 4,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 1,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 5,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 1,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 6,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 1,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 7,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 7,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 0,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 7,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 1,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 7,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 2,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 7,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 3,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 7,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 4,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 7,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 5,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 7,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 6,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 7,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 7,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 7,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 0,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 7,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 1,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 7,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 2,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 7,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 3,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 7,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 4,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 7,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 5,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 7,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 6,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 7,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 7,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 8,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 0,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 8,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 1,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 8,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 2,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 8,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 3,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 8,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 4,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 8,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 5,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 8,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 6,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 8,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 7,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 8,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 0,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 8,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 1,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 8,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 2,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 8,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 3,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 8,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 4,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 8,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 5,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 8,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 6,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 8,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 7,
+      "blocks": 2,
+      "exact": true
+    },
+    {
+      "rows": 9,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 0,
+      "blocks": 4,
+      "exact": true
+    },
+    {
+      "rows": 9,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 1,
+      "blocks": 4,
+      "exact": true
+    },
+    {
+      "rows": 9,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 2,
+      "blocks": 4,
+      "exact": true
+    },
+    {
+      "rows": 9,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 3,
+      "blocks": 4,
+      "exact": true
+    },
+    {
+      "rows": 9,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 4,
+      "blocks": 4,
+      "exact": true
+    },
+    {
+      "rows": 9,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 5,
+      "blocks": 4,
+      "exact": true
+    },
+    {
+      "rows": 9,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 6,
+      "blocks": 4,
+      "exact": true
+    },
+    {
+      "rows": 9,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 7,
+      "blocks": 4,
+      "exact": true
+    },
+    {
+      "rows": 9,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 0,
+      "blocks": 4,
+      "exact": true
+    },
+    {
+      "rows": 9,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 1,
+      "blocks": 4,
+      "exact": true
+    },
+    {
+      "rows": 9,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 2,
+      "blocks": 4,
+      "exact": true
+    },
+    {
+      "rows": 9,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 3,
+      "blocks": 4,
+      "exact": true
+    },
+    {
+      "rows": 9,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 4,
+      "blocks": 4,
+      "exact": true
+    },
+    {
+      "rows": 9,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 5,
+      "blocks": 4,
+      "exact": true
+    },
+    {
+      "rows": 9,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 6,
+      "blocks": 4,
+      "exact": true
+    },
+    {
+      "rows": 9,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 7,
+      "blocks": 4,
+      "exact": true
+    },
+    {
+      "rows": 32,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 0,
+      "blocks": 8,
+      "exact": true
+    },
+    {
+      "rows": 32,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 1,
+      "blocks": 8,
+      "exact": true
+    },
+    {
+      "rows": 32,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 2,
+      "blocks": 8,
+      "exact": true
+    },
+    {
+      "rows": 32,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 3,
+      "blocks": 8,
+      "exact": true
+    },
+    {
+      "rows": 32,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 4,
+      "blocks": 8,
+      "exact": true
+    },
+    {
+      "rows": 32,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 5,
+      "blocks": 8,
+      "exact": true
+    },
+    {
+      "rows": 32,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 6,
+      "blocks": 8,
+      "exact": true
+    },
+    {
+      "rows": 32,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 7,
+      "blocks": 8,
+      "exact": true
+    },
+    {
+      "rows": 32,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 0,
+      "blocks": 8,
+      "exact": true
+    },
+    {
+      "rows": 32,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 1,
+      "blocks": 8,
+      "exact": true
+    },
+    {
+      "rows": 32,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 2,
+      "blocks": 8,
+      "exact": true
+    },
+    {
+      "rows": 32,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 3,
+      "blocks": 8,
+      "exact": true
+    },
+    {
+      "rows": 32,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 4,
+      "blocks": 8,
+      "exact": true
+    },
+    {
+      "rows": 32,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 5,
+      "blocks": 8,
+      "exact": true
+    },
+    {
+      "rows": 32,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 6,
+      "blocks": 8,
+      "exact": true
+    },
+    {
+      "rows": 32,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 7,
+      "blocks": 8,
+      "exact": true
+    },
+    {
+      "rows": 64,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 0,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 64,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 1,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 64,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 2,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 64,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 3,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 64,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 4,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 64,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 5,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 64,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 6,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 64,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 7,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 64,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 0,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 64,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 1,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 64,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 2,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 64,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 3,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 64,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 4,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 64,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 5,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 64,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 6,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 64,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 7,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 127,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 0,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 127,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 1,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 127,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 2,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 127,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 3,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 127,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 4,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 127,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 5,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 127,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 6,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 127,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 7,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 127,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 0,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 127,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 1,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 127,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 2,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 127,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 3,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 127,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 4,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 127,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 5,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 127,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 6,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 127,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 7,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 128,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 0,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 128,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 1,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 128,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 2,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 128,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 3,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 128,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 4,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 128,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 5,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 128,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 6,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 128,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 7,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 128,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 0,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 128,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 1,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 128,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 2,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 128,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 3,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 128,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 4,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 128,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 5,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 128,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 6,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 128,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 7,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 129,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 0,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 129,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 1,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 129,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 2,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 129,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 3,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 129,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 4,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 129,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 5,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 129,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 6,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 129,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 7,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 129,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 0,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 129,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 1,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 129,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 2,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 129,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 3,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 129,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 4,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 129,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 5,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 129,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 6,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 129,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 7,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 256,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 0,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 256,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 1,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 256,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 2,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 256,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 3,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 256,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 4,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 256,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 5,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 256,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 6,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 256,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 7,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 256,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 0,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 256,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 1,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 256,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 2,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 256,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 3,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 256,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 4,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 256,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 5,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 256,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 6,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 256,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 7,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 512,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 0,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 512,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 1,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 512,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 2,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 512,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 3,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 512,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 4,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 512,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 5,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 512,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 6,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 512,
+      "mode": "eager",
+      "iterations": 200,
+      "rank": 7,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 512,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 0,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 512,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 1,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 512,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 2,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 512,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 3,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 512,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 4,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 512,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 5,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 512,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 6,
+      "blocks": 16,
+      "exact": true
+    },
+    {
+      "rows": 512,
+      "mode": "graph",
+      "iterations": 200,
+      "rank": 7,
+      "blocks": 16,
+      "exact": true
+    }
+  ],
+  "configuration_mismatch_rejected": true
+}

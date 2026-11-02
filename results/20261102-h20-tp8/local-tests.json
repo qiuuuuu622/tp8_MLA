@@ -1,0 +1,8 @@
+{
+  "command": "python -m pytest -c tests/kernels/head_exchange/pytest.ini tests/kernels/head_exchange -q",
+  "result": "24 passed",
+  "duration_seconds": 1.66,
+  "environment": "macOS CPU",
+  "torch": "2.13.0",
+  "pytest": "9.2.0"
+}

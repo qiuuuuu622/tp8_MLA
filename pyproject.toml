@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vllm-dsv41-head-exchange"
+version = "0.1.0"
+description = "TP8 H20 head-to-row FlashMLA exchange experiments"
+requires-python = ">=3.10"
+dependencies = ["torch==2.13.0", "numpy"]
+license = {text = "Apache-2.0"}
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[tool.setuptools.packages.find]
+include = ["vllm_dsv41_head_exchange*"]
+
+[tool.setuptools.package-data]
+vllm_dsv41_head_exchange = ["csrc/*.cu", "csrc/LICENSE", "csrc/NOTICE.md"]

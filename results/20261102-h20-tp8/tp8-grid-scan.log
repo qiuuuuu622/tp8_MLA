@@ -1,0 +1,91 @@
+NCCL version 2.30.7+cuda13.3
+
+[2026-11-02 08:11:58] interactive-nbsws2e5oa88-775c498947-dznbk:6650:6650 [0] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:11:58] interactive-nbsws2e5oa88-775c498947-dznbk:6655:6655 [5] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:11:58] interactive-nbsws2e5oa88-775c498947-dznbk:6656:6656 [6] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:11:58] interactive-nbsws2e5oa88-775c498947-dznbk:6653:6653 [3] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:11:58] interactive-nbsws2e5oa88-775c498947-dznbk:6654:6654 [4] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:11:58] interactive-nbsws2e5oa88-775c498947-dznbk:6652:6652 [2] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:11:58] interactive-nbsws2e5oa88-775c498947-dznbk:6657:6657 [7] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:11:58] interactive-nbsws2e5oa88-775c498947-dznbk:6651:6651 [1] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+{"rows": 8, "blocks": null, "actual_blocks": 2, "threads": 256, "graph_us": 10.26506672302882}
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+{"rows": 8, "blocks": 4, "actual_blocks": 4, "threads": 128, "graph_us": 9.86719975868861}
+{"rows": 8, "blocks": 8, "actual_blocks": 8, "threads": 256, "graph_us": 9.485333661238352}
+{"rows": 8, "blocks": 16, "actual_blocks": 16, "threads": 256, "graph_us": 9.372800091902416}
+{"rows": 8, "blocks": 32, "actual_blocks": 32, "threads": 256, "graph_us": 9.582933286825815}
+{"rows": 8, "blocks": 64, "actual_blocks": 64, "threads": 512, "graph_us": 10.481066505114239}
+{"rows": 32, "blocks": null, "actual_blocks": 8, "threads": 256, "graph_us": 11.104533076286316}
+{"rows": 32, "blocks": 4, "actual_blocks": 4, "threads": 128, "graph_us": 14.708266655604046}
+{"rows": 32, "blocks": 8, "actual_blocks": 8, "threads": 256, "graph_us": 11.467733482519785}
+{"rows": 32, "blocks": 16, "actual_blocks": 16, "threads": 256, "graph_us": 10.867199798425037}
+{"rows": 32, "blocks": 32, "actual_blocks": 32, "threads": 256, "graph_us": 10.770133634408314}
+{"rows": 32, "blocks": 64, "actual_blocks": 64, "threads": 512, "graph_us": 11.104533572991688}
+{"rows": 96, "blocks": null, "actual_blocks": 16, "threads": 256, "graph_us": 13.916799922784168}
+{"rows": 96, "blocks": 4, "actual_blocks": 4, "threads": 128, "graph_us": 24.53920046488444}
+{"rows": 96, "blocks": 8, "actual_blocks": 8, "threads": 256, "graph_us": 14.527999858061474}
+{"rows": 96, "blocks": 16, "actual_blocks": 16, "threads": 256, "graph_us": 14.988266428311665}
+{"rows": 96, "blocks": 32, "actual_blocks": 32, "threads": 256, "graph_us": 13.804266850153605}
+{"rows": 96, "blocks": 64, "actual_blocks": 64, "threads": 512, "graph_us": 14.205333093802135}
+{"rows": 128, "blocks": null, "actual_blocks": 16, "threads": 256, "graph_us": 15.848533312479656}
+{"rows": 128, "blocks": 4, "actual_blocks": 4, "threads": 128, "graph_us": 30.409066875775654}
+{"rows": 128, "blocks": 8, "actual_blocks": 8, "threads": 256, "graph_us": 15.962133308251698}
+{"rows": 128, "blocks": 16, "actual_blocks": 16, "threads": 256, "graph_us": 15.135467052459717}
+{"rows": 128, "blocks": 32, "actual_blocks": 32, "threads": 256, "graph_us": 14.95253344376882}
+{"rows": 128, "blocks": 64, "actual_blocks": 64, "threads": 512, "graph_us": 15.779199699560802}
+{"rows": 288, "blocks": null, "actual_blocks": 16, "threads": 256, "graph_us": 22.368533412615456}
+{"rows": 288, "blocks": 4, "actual_blocks": 4, "threads": 128, "graph_us": 55.987201134363815}
+{"rows": 288, "blocks": 8, "actual_blocks": 8, "threads": 256, "graph_us": 23.866666356722515}
+{"rows": 288, "blocks": 16, "actual_blocks": 16, "threads": 256, "graph_us": 23.601067066192627}
+{"rows": 288, "blocks": 32, "actual_blocks": 32, "threads": 256, "graph_us": 22.78666694959005}
+{"rows": 288, "blocks": 64, "actual_blocks": 64, "threads": 512, "graph_us": 22.862399617830913}
+{"rows": 512, "blocks": null, "actual_blocks": 16, "threads": 256, "graph_us": 32.447466254234314}
+{"rows": 512, "blocks": 4, "actual_blocks": 4, "threads": 128, "graph_us": 92.61759916941324}
+{"rows": 512, "blocks": 8, "actual_blocks": 8, "threads": 256, "graph_us": 34.007465839385986}
+{"rows": 512, "blocks": 16, "actual_blocks": 16, "threads": 256, "graph_us": 32.7072004477183}
+{"rows": 512, "blocks": 32, "actual_blocks": 32, "threads": 256, "graph_us": 31.745066245396934}
+{"rows": 512, "blocks": 64, "actual_blocks": 64, "threads": 512, "graph_us": 32.05333352088928}
+{"rows": 1024, "blocks": null, "actual_blocks": 16, "threads": 256, "graph_us": 55.65173427263896}
+{"rows": 1024, "blocks": 4, "actual_blocks": 4, "threads": 128, "graph_us": 176.57493750254312}
+{"rows": 1024, "blocks": 8, "actual_blocks": 8, "threads": 256, "graph_us": 57.92746742566427}
+{"rows": 1024, "blocks": 16, "actual_blocks": 16, "threads": 256, "graph_us": 54.98133301734924}
+{"rows": 1024, "blocks": 32, "actual_blocks": 32, "threads": 256, "graph_us": 54.149331649144486}
+{"rows": 1024, "blocks": 64, "actual_blocks": 64, "threads": 512, "graph_us": 55.00639875729878}

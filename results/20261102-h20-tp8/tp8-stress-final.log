@@ -1,0 +1,71 @@
+NCCL version 2.30.7+cuda13.3
+
+[2026-11-02 08:06:05] interactive-nbsws2e5oa88-775c498947-dznbk:5830:5830 [2] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:06:05] interactive-nbsws2e5oa88-775c498947-dznbk:5831:5831 [3] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:06:05] interactive-nbsws2e5oa88-775c498947-dznbk:5834:5834 [6] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:06:05] interactive-nbsws2e5oa88-775c498947-dznbk:5835:5835 [7] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:06:05] interactive-nbsws2e5oa88-775c498947-dznbk:5828:5828 [0] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:06:05] interactive-nbsws2e5oa88-775c498947-dznbk:5832:5832 [4] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:06:05] interactive-nbsws2e5oa88-775c498947-dznbk:5833:5833 [5] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:06:05] interactive-nbsws2e5oa88-775c498947-dznbk:5829:5829 [1] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+{"rows": 1, "mode": "eager", "iterations_per_rank": 200, "exact": true}
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+{"rows": 1, "mode": "graph", "iterations_per_rank": 200, "exact": true}
+{"rows": 7, "mode": "eager", "iterations_per_rank": 200, "exact": true}
+{"rows": 7, "mode": "graph", "iterations_per_rank": 200, "exact": true}
+{"rows": 8, "mode": "eager", "iterations_per_rank": 200, "exact": true}
+{"rows": 8, "mode": "graph", "iterations_per_rank": 200, "exact": true}
+{"rows": 9, "mode": "eager", "iterations_per_rank": 200, "exact": true}
+{"rows": 9, "mode": "graph", "iterations_per_rank": 200, "exact": true}
+{"rows": 32, "mode": "eager", "iterations_per_rank": 200, "exact": true}
+{"rows": 32, "mode": "graph", "iterations_per_rank": 200, "exact": true}
+{"rows": 64, "mode": "eager", "iterations_per_rank": 200, "exact": true}
+{"rows": 64, "mode": "graph", "iterations_per_rank": 200, "exact": true}
+{"rows": 127, "mode": "eager", "iterations_per_rank": 200, "exact": true}
+{"rows": 127, "mode": "graph", "iterations_per_rank": 200, "exact": true}
+{"rows": 128, "mode": "eager", "iterations_per_rank": 200, "exact": true}
+{"rows": 128, "mode": "graph", "iterations_per_rank": 200, "exact": true}
+{"rows": 129, "mode": "eager", "iterations_per_rank": 200, "exact": true}
+{"rows": 129, "mode": "graph", "iterations_per_rank": 200, "exact": true}
+{"rows": 256, "mode": "eager", "iterations_per_rank": 200, "exact": true}
+{"rows": 256, "mode": "graph", "iterations_per_rank": 200, "exact": true}
+{"rows": 512, "mode": "eager", "iterations_per_rank": 200, "exact": true}
+{"rows": 512, "mode": "graph", "iterations_per_rank": 200, "exact": true}

@@ -1,0 +1,79 @@
+NCCL version 2.30.7+cuda13.3
+
+[2026-11-02 08:07:49] interactive-nbsws2e5oa88-775c498947-dznbk:6136:6136 [3] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:07:49] interactive-nbsws2e5oa88-775c498947-dznbk:6139:6139 [6] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:07:49] interactive-nbsws2e5oa88-775c498947-dznbk:6140:6140 [7] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:07:49] interactive-nbsws2e5oa88-775c498947-dznbk:6135:6135 [2] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:07:49] interactive-nbsws2e5oa88-775c498947-dznbk:6133:6133 [0] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:07:49] interactive-nbsws2e5oa88-775c498947-dznbk:6137:6137 [4] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:07:49] interactive-nbsws2e5oa88-775c498947-dznbk:6134:6134 [1] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:07:49] interactive-nbsws2e5oa88-775c498947-dznbk:6138:6138 [5] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+{"rows": 1, "ratio": 0, "graph_p50_us": {"baseline": 13.922400027513504, "exchanged_total": 23.6455999314785, "row_attention_only": 13.899199664592743, "exchange_and_packing_only": 10.256800055503845}, "speedup": 0.5887945354678498, "max_nrmse": 0.0}
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+{"rows": 8, "ratio": 0, "graph_p50_us": {"baseline": 14.415200054645538, "exchanged_total": 24.138399958610535, "row_attention_only": 13.948799669742584, "exchange_and_packing_only": 10.549600049853325}, "speedup": 0.5971895436053298, "max_nrmse": 0.0}
+{"rows": 32, "ratio": 0, "graph_p50_us": {"baseline": 16.147999465465546, "exchanged_total": 25.450399518013, "row_attention_only": 14.318400621414185, "exchange_and_packing_only": 11.51839978992939}, "speedup": 0.6344890363719632, "max_nrmse": 0.001612063031643629}
+{"rows": 64, "ratio": 0, "graph_p50_us": {"baseline": 16.98800027370453, "exchanged_total": 26.80879980325699, "row_attention_only": 14.315199851989746, "exchange_and_packing_only": 12.73839995265007}, "speedup": 0.6336725402992739, "max_nrmse": 0.001612627413123846}
+{"rows": 96, "ratio": 0, "graph_p50_us": {"baseline": 30.67840039730072, "exchanged_total": 30.000799894332886, "row_attention_only": 16.274400055408478, "exchange_and_packing_only": 14.027199894189835}, "speedup": 1.0225860812163157, "max_nrmse": 0.0}
+{"rows": 128, "ratio": 0, "graph_p50_us": {"baseline": 31.378398835659027, "exchanged_total": 31.18159919977188, "row_attention_only": 16.18880033493042, "exchange_and_packing_only": 15.121599286794662}, "speedup": 1.0063114029086933, "max_nrmse": 0.0}
+{"rows": 192, "ratio": 0, "graph_p50_us": {"baseline": 46.30960077047348, "exchanged_total": 34.539198875427246, "row_attention_only": 16.277600079774857, "exchange_and_packing_only": 18.530400097370148}, "speedup": 1.3407838710300901, "max_nrmse": 0.0}
+{"rows": 288, "ratio": 0, "graph_p50_us": {"baseline": 65.60240089893341, "exchanged_total": 40.37280082702637, "row_attention_only": 16.228799521923065, "exchange_and_packing_only": 23.22319969534874}, "speedup": 1.6249157738647113, "max_nrmse": 0.0}
+{"rows": 384, "ratio": 0, "graph_p50_us": {"baseline": 85.71680188179016, "exchanged_total": 43.42080056667328, "row_attention_only": 16.654399782419205, "exchange_and_packing_only": 28.197599947452545}, "speedup": 1.974095382008693, "max_nrmse": 0.0}
+{"rows": 512, "ratio": 0, "graph_p50_us": {"baseline": 118.17439794540405, "exchanged_total": 49.28639978170395, "row_attention_only": 16.831199824810028, "exchange_and_packing_only": 32.35680013895035}, "speedup": 2.3977080587913555, "max_nrmse": 0.0}
+{"rows": 1, "ratio": 1, "graph_p50_us": {"baseline": 16.172000020742416, "exchanged_total": 26.450400054454803, "row_attention_only": 16.16559997200966, "exchange_and_packing_only": 10.609599947929382}, "speedup": 0.6114085226479858, "max_nrmse": 0.0}
+{"rows": 8, "ratio": 1, "graph_p50_us": {"baseline": 20.477599650621414, "exchanged_total": 26.785600185394287, "row_attention_only": 16.34960025548935, "exchange_and_packing_only": 10.515200346708298}, "speedup": 0.7645003101997874, "max_nrmse": 0.001708979718387127}
+{"rows": 32, "ratio": 1, "graph_p50_us": {"baseline": 47.491200268268585, "exchanged_total": 27.41840034723282, "row_attention_only": 16.130399703979492, "exchange_and_packing_only": 11.451200023293495}, "speedup": 1.73209230541641, "max_nrmse": 0.0021158759482204914}
+{"rows": 64, "ratio": 1, "graph_p50_us": {"baseline": 58.86479914188385, "exchanged_total": 32.92720019817352, "row_attention_only": 20.468799769878387, "exchange_and_packing_only": 12.434399873018265}, "speedup": 1.7877256124907057, "max_nrmse": 0.0021848625037819147}
+{"rows": 96, "ratio": 1, "graph_p50_us": {"baseline": 94.5719987154007, "exchanged_total": 39.849600195884705, "row_attention_only": 26.126399636268616, "exchange_and_packing_only": 14.019200205802917}, "speedup": 2.3732232757799965, "max_nrmse": 0.002026272239163518}
+{"rows": 128, "ratio": 1, "graph_p50_us": {"baseline": 118.04160475730896, "exchanged_total": 46.11600041389465, "row_attention_only": 31.188800930976868, "exchange_and_packing_only": 15.161600708961487}, "speedup": 2.5596670070664516, "max_nrmse": 0.001981971552595496}
+{"rows": 192, "ratio": 1, "graph_p50_us": {"baseline": 166.8727993965149, "exchanged_total": 56.09440207481384, "row_attention_only": 37.41040080785751, "exchange_and_packing_only": 18.465600162744522}, "speedup": 2.974856549392477, "max_nrmse": 0.0017775892047211528}
+{"rows": 288, "ratio": 1, "graph_p50_us": {"baseline": 233.2527995109558, "exchanged_total": 71.45919799804688, "row_attention_only": 48.047199845314026, "exchange_and_packing_only": 42.68479943275452}, "speedup": 3.2641396215688157, "max_nrmse": 0.0016621443210169673}
+{"rows": 384, "ratio": 1, "graph_p50_us": {"baseline": 291.18160009384155, "exchanged_total": 86.52320206165314, "row_attention_only": 58.57039988040924, "exchange_and_packing_only": 27.101600170135498}, "speedup": 3.3653585761465075, "max_nrmse": 0.0}
+{"rows": 512, "ratio": 1, "graph_p50_us": {"baseline": 407.5240135192871, "exchanged_total": 93.74959766864777, "row_attention_only": 59.033599495887756, "exchange_and_packing_only": 32.28960037231445}, "speedup": 4.3469414659213355, "max_nrmse": 0.0004894352168776095}
+{"rows": 1, "ratio": 2, "graph_p50_us": {"baseline": 16.147200018167496, "exchanged_total": 26.48640125989914, "row_attention_only": 16.11119955778122, "exchange_and_packing_only": 10.523199662566185}, "speedup": 0.6096411460251729, "max_nrmse": 0.0}
+{"rows": 8, "ratio": 2, "graph_p50_us": {"baseline": 20.54319977760315, "exchanged_total": 26.88319981098175, "row_attention_only": 16.13360047340393, "exchange_and_packing_only": 10.888800024986267}, "speedup": 0.7641649774596877, "max_nrmse": 0.0016510001150891185}
+{"rows": 32, "ratio": 2, "graph_p50_us": {"baseline": 47.58480042219162, "exchanged_total": 27.41199880838394, "row_attention_only": 16.153600066900253, "exchange_and_packing_only": 11.375999823212624}, "speedup": 1.7359113705943194, "max_nrmse": 0.002098904922604561}
+{"rows": 64, "ratio": 2, "graph_p50_us": {"baseline": 59.067997336387634, "exchanged_total": 32.868799567222595, "row_attention_only": 20.479200035333633, "exchange_and_packing_only": 12.405600026249886}, "speedup": 1.7970841075465191, "max_nrmse": 0.002171118510887027}
+{"rows": 96, "ratio": 2, "graph_p50_us": {"baseline": 94.58799958229065, "exchanged_total": 39.71119970083237, "row_attention_only": 25.921599566936493, "exchange_and_packing_only": 13.972800225019455}, "speedup": 2.381897305920678, "max_nrmse": 0.002030575880780816}
+{"rows": 128, "ratio": 2, "graph_p50_us": {"baseline": 118.39120388031006, "exchanged_total": 46.2119996547699, "row_attention_only": 31.1256006360054, "exchange_and_packing_only": 15.163999795913696}, "speedup": 2.5619147573089274, "max_nrmse": 0.001984893810003996}
+{"rows": 192, "ratio": 2, "graph_p50_us": {"baseline": 166.73839688301086, "exchanged_total": 55.58159947395325, "row_attention_only": 37.13520020246506, "exchange_and_packing_only": 18.476799875497818}, "speedup": 2.9998848262930635, "max_nrmse": 0.0017875817138701677}
+{"rows": 288, "ratio": 2, "graph_p50_us": {"baseline": 233.19439888000488, "exchanged_total": 71.94080054759979, "row_attention_only": 48.127199709415436, "exchange_and_packing_only": 23.1967993080616}, "speedup": 3.2414762847365215, "max_nrmse": 0.0016576747875660658}
+{"rows": 384, "ratio": 2, "graph_p50_us": {"baseline": 291.2264108657837, "exchanged_total": 86.60480082035065, "row_attention_only": 58.5640013217926, "exchange_and_packing_only": 27.009598910808563}, "speedup": 3.362705163076254, "max_nrmse": 0.0}
+{"rows": 512, "ratio": 2, "graph_p50_us": {"baseline": 407.7672004699707, "exchanged_total": 93.90719830989838, "row_attention_only": 59.15359854698181, "exchange_and_packing_only": 32.98719972372055}, "speedup": 4.342235822266988, "max_nrmse": 0.0004933623713441193}

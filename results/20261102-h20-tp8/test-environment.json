@@ -1,0 +1,23 @@
+{
+  "nccl_runtime": 23007,
+  "nccl_package": "2.30.7",
+  "environment": {
+    "NCCL_IB_DISABLE": "1",
+    "NCCL_NVLS_ENABLE": "0",
+    "TORCH_SYMM_MEM_DISABLE_MULTICAST": "1",
+    "OMP_NUM_THREADS": "1"
+  },
+  "source_commit": "ab2f5a8d5774a85c89b0a450f53632898525734c",
+  "source_hashes": {
+    "vllm_dsv41_head_exchange/__init__.py": "baeb1ad5f77770874931ec4947840b0346c6861b5aba3bf9195dc8f94f64a5cc",
+    "vllm_dsv41_head_exchange/build.py": "727bb389510c0333728ada8b07eac3eb1f3ab8f34ddf2c7074c572a685e13b7d",
+    "vllm_dsv41_head_exchange/layout.py": "ab610acb5d319208b92416cc55ff631b409ebedd23b5832d460aad3dc812d3a7",
+    "vllm_dsv41_head_exchange/workspace.py": "d1ab046eb50d74824935602296cf010298e9ca2c98cb3970b45a49a1fa33d3e3",
+    "vllm_dsv41_head_exchange/csrc/segment_exchange.cu": "eafbf53e8273d0101f0ff667f10f3c96f3b48729b2e33dd3526fdf4add9efda5",
+    "benchmarks/kernels/head_exchange/__init__.py": "e3c55cbb0d7a8bd47df6f3378835644645f5d3bc89b45793b5d5a02d013e5c58",
+    "benchmarks/kernels/head_exchange/baseline.py": "2cd383fca6899f70d1443118c96fe48e3cad72addd11d034fe0127c27e6510cb",
+    "benchmarks/kernels/head_exchange/benchmark.py": "b44d8e4386b78934881d21ae1f62da13a9d08a8385b04279cb5eed66982a4231",
+    "benchmarks/kernels/head_exchange/summarize.py": "1c01f79ffd61c5b313e03fdfc157bc3ba628b85553de65f9442f12f12c8a825c",
+    "benchmarks/kernels/head_exchange/verify.py": "77002786d1b78e56c632e34665d374c4a794bc0ff3f583cf5d038338ac5ab9b9"
+  }
+}

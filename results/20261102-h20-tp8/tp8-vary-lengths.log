@@ -1,0 +1,61 @@
+NCCL version 2.30.7+cuda13.3
+
+[2026-11-02 08:11:29] interactive-nbsws2e5oa88-775c498947-dznbk:6527:6527 [6] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:11:29] interactive-nbsws2e5oa88-775c498947-dznbk:6528:6528 [7] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:11:29] interactive-nbsws2e5oa88-775c498947-dznbk:6526:6526 [5] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:11:29] interactive-nbsws2e5oa88-775c498947-dznbk:6521:6521 [0] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:11:29] interactive-nbsws2e5oa88-775c498947-dznbk:6523:6523 [2] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:11:29] interactive-nbsws2e5oa88-775c498947-dznbk:6524:6524 [3] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:11:29] interactive-nbsws2e5oa88-775c498947-dznbk:6522:6522 [1] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+
+[2026-11-02 08:11:29] interactive-nbsws2e5oa88-775c498947-dznbk:6525:6525 [4] misc/ibvwrap.cc:185 (wrap_ibv_alloc_pd) NCCL WARN lib wrapper not initialized.
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+{"rows": 1, "ratio": 0, "graph_p50_us": {"baseline": 13.824000023305416, "exchanged_total": 26.22400037944317, "row_attention_only": 13.439999893307686, "exchange_and_packing_only": 16.303999349474907}, "speedup": 0.527150694908545, "max_nrmse": 0.0}
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+/usr/local/lib/python3.12/dist-packages/torch/distributed/c10d_logger.py:83: FutureWarning: `torch.distributed.all_gather_into_tensor` is deprecated. Please use `torch.distributed.all_gather_single` instead.
+  return func(*args, **kwargs)
+{"rows": 7, "ratio": 0, "graph_p50_us": {"baseline": 17.295999452471733, "exchanged_total": 29.40800040960312, "row_attention_only": 17.152000218629837, "exchange_and_packing_only": 14.800000004470348}, "speedup": 0.5881392550179564, "max_nrmse": 0.0}
+{"rows": 9, "ratio": 0, "graph_p50_us": {"baseline": 17.456000670790672, "exchanged_total": 29.77599948644638, "row_attention_only": 16.752000898122787, "exchange_and_packing_only": 17.616000026464462}, "speedup": 0.5862439875019612, "max_nrmse": 0.0}
+{"rows": 129, "ratio": 0, "graph_p50_us": {"baseline": 34.063998609781265, "exchanged_total": 36.94399818778038, "row_attention_only": 18.97599920630455, "exchange_and_packing_only": 20.94399929046631}, "speedup": 0.9220441825662576, "max_nrmse": 0.0}
+{"rows": 1, "ratio": 1, "graph_p50_us": {"baseline": 13.51999957114458, "exchanged_total": 26.30399912595749, "row_attention_only": 13.679999858140945, "exchange_and_packing_only": 15.08800033479929}, "speedup": 0.5139902684152192, "max_nrmse": 0.0}
+{"rows": 7, "ratio": 1, "graph_p50_us": {"baseline": 19.74399946630001, "exchanged_total": 32.35200047492981, "row_attention_only": 19.42400075495243, "exchange_and_packing_only": 16.35199971497059}, "speedup": 0.6102868192524916, "max_nrmse": 0.0}
+{"rows": 9, "ratio": 1, "graph_p50_us": {"baseline": 23.951999843120575, "exchanged_total": 33.15199911594391, "row_attention_only": 18.81599985063076, "exchange_and_packing_only": 16.88000001013279}, "speedup": 0.7224903620246917, "max_nrmse": 0.0017079273238778114}
+{"rows": 129, "ratio": 1, "graph_p50_us": {"baseline": 105.0880029797554, "exchanged_total": 48.62400144338608, "row_attention_only": 30.287999659776688, "exchange_and_packing_only": 21.183999255299568}, "speedup": 2.161237246221118, "max_nrmse": 0.0019107299158349633}
+{"rows": 1, "ratio": 2, "graph_p50_us": {"baseline": 15.696000307798386, "exchanged_total": 37.935998290777206, "row_attention_only": 15.263999812304974, "exchange_and_packing_only": 31.599998474121094}, "speedup": 0.4137494995515727, "max_nrmse": 0.0}
+{"rows": 7, "ratio": 2, "graph_p50_us": {"baseline": 21.91999927163124, "exchanged_total": 43.31199824810028, "row_attention_only": 19.69599910080433, "exchange_and_packing_only": 18.352000042796135}, "speedup": 0.5060953121134899, "max_nrmse": 0.0}
+{"rows": 9, "ratio": 2, "graph_p50_us": {"baseline": 24.04800057411194, "exchanged_total": 34.543998539447784, "row_attention_only": 19.408000633120537, "exchange_and_packing_only": 22.92799949645996}, "speedup": 0.696155673659207, "max_nrmse": 0.001697895466350019}
+{"rows": 129, "ratio": 2, "graph_p50_us": {"baseline": 107.91999846696854, "exchanged_total": 51.58400163054466, "row_attention_only": 30.079999938607216, "exchange_and_packing_only": 22.128000855445862}, "speedup": 2.0921214922392797, "max_nrmse": 0.001931239035911858}
